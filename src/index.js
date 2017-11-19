@@ -4,7 +4,8 @@ import './index.css';
 import registerServiceWorker from './registerServiceWorker';
 import { BrowserRouter } from 'react-router-dom'
 import Routes from './routes'
-// import './styles/semantic.min.css'
+
+import './styles/semantic.min.css'
 
 ReactDOM.render((
     <BrowserRouter>
